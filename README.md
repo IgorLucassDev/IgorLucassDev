@@ -2,7 +2,7 @@
 
 ![IgorLucasDev GitHub stats](https://github-readme-stats.vercel.app/api?username=igorlucassdev&show_icons=true&theme=radical)
 
-### Languages
+### Languages and Tools
 
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Logo">
