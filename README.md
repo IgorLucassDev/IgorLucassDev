@@ -16,6 +16,7 @@
 
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Logo">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Logo">
 </div><br/>
 
 
