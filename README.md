@@ -2,7 +2,7 @@
 
 ![IgorLucasDev GitHub stats](https://github-readme-stats.vercel.app/api?username=igorlucassdev&show_icons=true&theme=dark)
 
-### Languages and Tools
+### Languages / Frameworks
 
 <div style="display: inline_block"><br>
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Logo">
